@@ -1,0 +1,28 @@
+name: Greetings From Other Worlds
+favicon: null
+layout_spectrum: 0.15830133389681578
+typography_spectrum: 0.6829075524583459
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.8056576333474368
+  lightness: 0.8109964486211538
+  saturation: 0.4335703793913126
+  rhythmicContrast: 0.7270804080180824
+purpose: []
